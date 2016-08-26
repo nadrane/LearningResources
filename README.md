@@ -1,9 +1,12 @@
 # LearningResources
 
 ## Machine Learning
-### Introduction 
+### Highly Accessable Introduction 
 - http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/
 - https://github.com/jctillman/js-ml-workshop
+
+### Neural Netwroks
+- http://neuralnetworksanddeeplearning.com/index.html
 
 ### Advanced
 - [Lecture notes from Andrew Ng's Stanford course. Very math heavy](http://cs229.stanford.edu/materials.html)
