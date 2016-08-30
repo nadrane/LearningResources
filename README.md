@@ -13,4 +13,4 @@
 
 ## Operating Systems
 - [Writing an OS from scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-- [strace tutorial](http://jvns.ca/strace-zine-unfolded.pdf)
+- [Strace Tutorial](http://jvns.ca/strace-zine-unfolded.pdf)
